@@ -1,0 +1,8 @@
+1 - git clone https://github.com/flavioandrade91/NFT-Marker-Creator.git;
+2 - Acessar pasta NFT-Marker-Creator
+    ° colocar imagem para conversão dentro de pasta ou solta no diretorio raiz;
+3 - Executar comando < npm install > para instalação das bibliotecas;
+4 - Executar comando < node app.js -i nome_da_img.jpg/png >
+5 - Será criada automaticamente a pasta OUTPUT com os arquivos (iset, fset e fset3);
+6 - Coloque a imagem matriz dentro do pasta OUTPUT;
+7 - Importe a pasta para seu projeto e nomeie como desejar;
